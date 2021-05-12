@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    height: 200px;
+    width:200px;
+}
+
+.padding  {
+    padding: 20px;
+    text-align: center;
+}
